@@ -1,5 +1,10 @@
-### Hi there 👋
-
+<h1>
+  <img src="name.svg" width="800" height="400" alt="Christian Brunholm senior front-end developer"/>
+</h1>
+<h2>
+  Senior front-end developer and UX, UI and IxD connoisseur.
+</h2>
+<p>Located in the cold north of Scandinavia // Denmark</p>
 <!--
 **brunholm/brunholm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
