@@ -1,5 +1,5 @@
 <h1>
-  <img src="name.svg" width="800" height="400" alt="Christian Brunholm senior front-end developer"/>
+  <img src="logo.svg" width="800" height="400" alt="Christian Brunholm senior front-end developer"/>
 </h1>
 <h2>
   Senior front-end developer and UX, UI and IxD connoisseur.
